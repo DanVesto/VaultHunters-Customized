@@ -10682,11 +10682,11 @@ hash = "adaac45f0d244dc16c0daad5e7a64b5534a65bd00c770f6a6746b4924573b8fa"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "aa8e6fe692321d2b88f823f48aa475296835991c532adafbe0361eeaef35f4ff"
+hash = "e47e7cd9c48f2d374acab23ab84e92d2fe5059332c4f94c936ade864f96469e3"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "97d95573dcc1692c6b33eafff653bb2b1a4951bdcb901888339ad10389600428"
+hash = "53382a58ddfa70aba9f4eb0bf9117205361da2ff8c298d47b2a3cf0608c6f79d"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -11939,6 +11939,11 @@ metafile = true
 [[files]]
 file = "mods/vault-integrations.pw.toml"
 hash = "ce42ed2114bcc8cbbc08cf71985a14e193b61f60d104a88326cb8b5668950ef5"
+metafile = true
+
+[[files]]
+file = "mods/vault_hunters_jewel_sorting.pw.toml"
+hash = "938a44cd449ad5cfea2bf447965d5096a1688b9da985b855b1bd2c7546d945da"
 metafile = true
 
 [[files]]
