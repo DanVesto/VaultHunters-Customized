@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+      {
+          "name": "packwizPush",
+          "type": "PowerShell",
+          "request": "launch",
+          "script": "./push.bat ${input:version}",
+          "cwd": "${cwd}"
+      },
+      {
+          "name": "packwizCmd",
+          "type": "PowerShell",
+          "request": "launch",
+          "script": "./packwiz ${input:packwizArguments}",
+          "cwd": "${cwd}"
+      }
+    ],
+    "inputs": [
+      {
+        "id": "version",
+        "type": "promptString",
+        "description": "Version for packwiz",
+        "default": "0.0.20" //REPLACEME version
+      },
+      {
+        "id": "packwizArguments",
+        "type": "promptString",
+        "description": "Arguments for packwiz command",
+        "default": "cf add "
+      }
+    ]
+}

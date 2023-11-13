@@ -1,0 +1,6 @@
+{
+  "launches": {
+    "packwizCmd": "packwizCmd",
+    "packwizPush": "packwizPush"
+  }
+}

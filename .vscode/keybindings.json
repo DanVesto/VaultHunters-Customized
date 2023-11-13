@@ -1,0 +1,10 @@
+[
+    {
+        "key": "F7",
+        "command": "launches.packwizPush"
+    },
+    {
+        "key": "F6",
+        "command": "launches.packwizCmd"
+    }
+]

@@ -1,0 +1,11 @@
+name = "VaultHunters Tweaks"
+filename = "the_vault-tweaks.jar"
+side = "both"
+
+[download]
+url = "https://github.com/alterNERDtive/the_vault-tweaks/releases/download/release%2F3.12.1.1/the_vault-tweaks-1.18.2-3.12.1.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "564468042e21151e7e2b6571c9cc33a31eb452eec9267a4e7050950826861760"
