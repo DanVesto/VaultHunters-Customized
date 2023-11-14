@@ -1,12 +1,12 @@
 name = "Vault Hunters 3rd Edition Jeefified"
 author = "ArtificialDan"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0083f8c157608bf08e404ab6bf5048f5b23a3b0986bdccfc9efa37eda24fdf70"
+hash = "51d6aac509c313387ce268da56a20c65bc8b187bdbbcdd1b7683a1c400df9418"
 
 [versions]
 forge = "40.2.9"
