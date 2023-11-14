@@ -577,6 +577,10 @@ file = "config/fairylights-common.toml"
 hash = "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+
+[[files]]
 file = "config/fastbench.cfg"
 hash = "c0f72d2d60243a3944eaf7a477fa2673411a66f6dcc47c0f5d7eeb3b828e2756"
 
@@ -11363,7 +11367,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "4f8e17c5e7c446fb66822f7cc7726dde97fdbeb5fdf97c3871b501e23c432b95"
+hash = "0256dd5ca22f7d7c8e9a90cdc42c85b958d28e64a72c4a88c3e1fd46573f0d5a"
 metafile = true
 
 [[files]]

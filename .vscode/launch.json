@@ -24,7 +24,7 @@
         "id": "version",
         "type": "promptString",
         "description": "Version for packwiz",
-        "default": "1.0.5" //REPLACEME version
+        "default": "1.0.6" //REPLACEME version
       },
       {
         "id": "packwizArguments",
