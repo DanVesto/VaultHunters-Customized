@@ -897,6 +897,10 @@ file = "config/rsrequestify-common.toml"
 hash = "dd9d58eb53802e7d5192f347b50fea11d50289fc35f763c0a9268c87c73154e6"
 
 [[files]]
+file = "config/rubidium_extras.toml"
+hash = "53c975451c71b87a41e06645b67dee91f77b1cd7ad89f98d6a4efaf4e33e0494"
+
+[[files]]
 file = "config/serverconfigupdater-common.toml"
 hash = "cd9bbd6f087f19747c46eae4cb3a33d307508838fb9525a11f6cbcf2c66f2de8"
 
@@ -11050,7 +11054,7 @@ hash = "602a5e9d38c0100c4dddc73d77cbd01e02f063a13e7cad15a7e1786fe4aabefa"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "0da2425a3f56b8d44ad1c4c073cfbfa1f9e64c1e96aa76c807ee06aa7b868fa8"
+hash = "117355b9fc30e9529a659c1f40c371b583ee9d355a458bf6e7e9d5ba3dae6d50"
 
 [[files]]
 file = "config/xaeropatreon.txt"
