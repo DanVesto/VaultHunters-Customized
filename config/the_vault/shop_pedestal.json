@@ -113,54 +113,6 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:idol_benevolent",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_omniscient",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_timekeeper",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_malevolence",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
               "item": "the_vault:magnet",
               "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
             },
@@ -293,54 +245,6 @@
             "MAX_COST": 24
           },
           "weight": 65
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_benevolent",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_omniscient",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_timekeeper",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_malevolence",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 12
         },
         {
           "value": {
@@ -549,54 +453,6 @@
             "MAX_COST": 32
           },
           "weight": 65
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_benevolent",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 32
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_omniscient",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 32
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_timekeeper",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 32
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:idol_malevolence",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"shop_pedestal\",\"the_vault:is_loot\":\"true\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 16,
-            "MAX_COST": 32
-          },
-          "weight": 12
         },
         {
           "value": {

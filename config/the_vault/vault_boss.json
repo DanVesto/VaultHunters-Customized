@@ -40,7 +40,7 @@
             "SparkSpawnInterval": 0,
             "StunTimePerSpark": 20,
             "MaxSparkCount": 12,
-            "MinSparkCount": 10
+            "MinSparkCount": 12
           }
         },
         { "stageName": "generic2",
@@ -225,7 +225,7 @@
                 "MaxCatalysts": 11
               }
             ],
-            "ChestChance": 0.3,
+            "ChestChance": 0.2,
             "ProjectileDamage": 20.0,
             "ExplosionDamageMultiplier": 1.5,
             "FangsDamage": 32.0,

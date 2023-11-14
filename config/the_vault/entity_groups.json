@@ -204,6 +204,7 @@
       "the_vault:t5_piglin"
     ],
     "the_vault:dungeon": [
+      "the_vault:dungeon_piglin_brute",
       "the_vault:dungeon_piglin",
       "the_vault:t1_zombie",
       "the_vault:t2_zombie",

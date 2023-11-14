@@ -133,7 +133,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 32,
-                  "max": 70
+                  "max": 50
                 },
                 "renderer": {
                   "type": "god_altar",
@@ -166,8 +166,8 @@
                 "filter": "@the_vault:fighter",
                 "count": {
                   "type": "uniform",
-                  "min": 28,
-                  "max": 60
+                  "min": 16,
+                  "max": 32
                 },
                 "renderer": {
                   "type": "god_altar",
@@ -184,7 +184,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 5,
-                  "max": 26
+                  "max": 14
                 },
                 "renderer": {
                   "type": "god_altar",
@@ -268,8 +268,8 @@
                 "filter": "@the_vault:ores[generated=true]",
                 "count": {
                   "type": "uniform",
-                  "min": 24,
-                  "max": 60
+                  "min": 16,
+                  "max": 40
                 },
                 "renderer": {
                   "type": "god_altar",
@@ -348,8 +348,8 @@
                 "filter": "@the_vault:assassin",
                 "count": {
                   "type": "uniform",
-                  "min": 45,
-                  "max": 80
+                  "min": 40,
+                  "max": 60
                 },
                 "renderer": {
                   "type": "god_altar",
@@ -383,7 +383,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 35,
-                  "max": 80
+                  "max": 60
                 },
                 "renderer": {
                   "type": "god_altar",

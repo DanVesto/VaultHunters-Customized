@@ -349,7 +349,7 @@
           "name": "Tenos' Favour",
           "color": "#55FFFF",
           "description": "Chests contain more loot",
-          "descriptionFormatted": "+25% Item Quantity",
+          "descriptionFormatted": "+25%% Item Quantity",
           "icon": "the_vault:gui/modifiers/tenos"
         }
       }
