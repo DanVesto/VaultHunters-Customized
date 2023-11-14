@@ -11128,7 +11128,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "d7dd310a55619b2ab78a8a687a5694c0640b710b7c759e1d4163f2307ed8539d"
+hash = "3cacdb43b158d024f33eda4364c70c8fe15f02ad93011ef44b2e894f9b709ce3"
 metafile = true
 
 [[files]]
@@ -11322,6 +11322,11 @@ hash = "cb54b75b3b97a7d1436b9bde469c4fcdc4f8304ca7f63797cfc1849c95ad9393"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "201fbdb672e83a6e12269409aae0445e14f65d2def938668269c5bcf6a2f62da"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
@@ -11397,6 +11402,11 @@ hash = "828ff9c88dbde0e819795cd631ad91c9530cf4af1b7546a9a5e88ebc16be4606"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "e290aa74080c94bb3f0359b2d09dad0df94ac1bd0251c29dfead6e108984bac9"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "379d6716ffb05e693aac86723e30bd6db53b98fea48d07eddb8238a260ec6d4e"
 metafile = true
@@ -11414,11 +11424,6 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "56f04c5afb59f692b6ff25f781a74d1f61505fd72d4ef647861f07c4e6780189"
-metafile = true
-
-[[files]]
-file = "mods/flywheel.pw.toml"
-hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
 metafile = true
 
 [[files]]
@@ -11893,7 +11898,7 @@ metafile = true
 
 [[files]]
 file = "mods/the_vault-tweaks.pw.toml"
-hash = "17e7c32c19fef095f658187401be5504eb217e67ed198bf7dd1a68add5748bfc"
+hash = "1be41a6b85fe67427f872a16a0417b2a0b9062009dfb9fc6f24207c9a84a8d1c"
 metafile = true
 
 [[files]]
