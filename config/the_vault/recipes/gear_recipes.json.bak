@@ -21,7 +21,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -47,7 +47,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -73,7 +73,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -99,7 +99,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -125,7 +125,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -151,7 +151,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -177,7 +177,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -203,7 +203,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]
@@ -229,7 +229,7 @@
         },
         {
           "AMOUNT": 1,
-          "ITEM": "minecraft:netherite_ingot",
+          "ITEM": "minecraft:netherite_scrap",
           "NBT": "{}"
         }
       ]

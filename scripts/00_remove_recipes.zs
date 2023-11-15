@@ -205,9 +205,6 @@ var materials = {
 
 #RemoveRecipies
 
-// Alex's Mobs
-craftingTable.removeByModid("alexsmobs");
-
 // Snad
 craftingTable.remove(<item:snad:suol_snad>);
 craftingTable.remove(<item:snad:red_snad>);
@@ -978,9 +975,6 @@ craftingTable.remove(<item:powah:solar_panel_basic>);
 // removing items from JEI
 
 //JEI.hideIngredient
-// Alexsmobs
-JEI.hideMod("alexsmobs");
-JEI.addIngredient(<item:alexsmobs:rainbow_glass>);
 // Backpacks
 JEI.hideIngredient(<item:sophisticatedbackpacks:stonecutter_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_tool_swapper_upgrade>);

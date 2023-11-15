@@ -57,26 +57,6 @@ file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
-file = "config/TwitchSpawn/client_credentials.json"
-hash = "fe5ae0ab369907ab268227953766dba501f3b95713f9189f3ee627205530d162"
-
-[[files]]
-file = "config/TwitchSpawn/messages.subtitle.json"
-hash = "23eef74999660c3bd16b2d9beb50061d3dcbc47d5fce126af01fdb3865cfe0f1"
-
-[[files]]
-file = "config/TwitchSpawn/messages.title.json"
-hash = "ae6d5427494218db91ddd1afa7c7cea2484978d166e79caf2db2623ef3307251"
-
-[[files]]
-file = "config/TwitchSpawn/preferences.toml"
-hash = "4cae6f62ea68a2df0962518b4816daa892ae39f1babedeaee6405dfce5539179"
-
-[[files]]
-file = "config/TwitchSpawn/rules.default.tsl"
-hash = "9fe47c606b17217c304001b844457d64654143e6e79b3e7af683519caa1a59d9"
-
-[[files]]
 file = "config/WeirdingGadget.toml"
 hash = "5a6a3f33471f998d63c5b0a73ea016aff6d9a24bcefd249cc50befae45cb96f8"
 
@@ -422,6 +402,10 @@ hash = "c69177c87ea6f85cd9d3b4a9372cbcd6b389dae4ea7377e370a23626dddc1c8d"
 
 [[files]]
 file = "config/bcc-common.toml"
+hash = "fc4354b1315c073fd1ac62114bb31d6db094bfc0a234bdf0c4c9c81fda3b64e5"
+
+[[files]]
+file = "config/bcc-common.toml.bak"
 hash = "b223b89d9deb5d54cb4c4e1d831ee33d9da1eebc0c502b1e693d42194f8b5cc4"
 
 [[files]]
@@ -813,6 +797,10 @@ file = "config/openloader/data/mobdrops.zip"
 hash = "9966c90feba1aa80ae6f23abef69cc2373cf856452545904cd3a63a5b9331d0a"
 
 [[files]]
+file = "config/openloader/data/ore_fix.zip"
+hash = "8269ded5d0e40487f96eed556c219ea3394cc0a9c059cc7a7240db5d0267084f"
+
+[[files]]
 file = "config/openloader/resources/VH3_Customized.zip"
 hash = "d72b740fec9ba39e372986b6e92fbf0d303a74d789606e01141440026ca8babe"
 
@@ -902,7 +890,7 @@ hash = "53c975451c71b87a41e06645b67dee91f77b1cd7ad89f98d6a4efaf4e33e0494"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
-hash = "cd9bbd6f087f19747c46eae4cb3a33d307508838fb9525a11f6cbcf2c66f2de8"
+hash = "220822e744bbdea7d1a311e00878ce7c40da00715421c0064e69b211510c2d43"
 
 [[files]]
 file = "config/shetiphiancore-client.toml"
@@ -1190,6 +1178,10 @@ hash = "027682b5ea1300fa50245666c2144c2ea777e543b712d0478ff7f9deb931e598"
 
 [[files]]
 file = "config/the_vault/gear/gear_common.json"
+hash = "ca3b242d245dc21f741c9337d3dca3c22d473c789399b0adbe7cd0f00894f92b"
+
+[[files]]
+file = "config/the_vault/gear/gear_common.json.bak"
 hash = "714e1380a86b311d70543904c2fe5c7ada93fd8e89aadbf4470dbe3fbd97259a"
 
 [[files]]
@@ -2226,43 +2218,43 @@ hash = "3f65c47b4c693e75d70565ceb44bab253317534ab607383794ba6591947ea543"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder.json"
-hash = "3cc61a4269a2fadd2e018b8afb1f6ff972d1a78d6dd15352b275b79f73277c97"
+hash = "f21658b1cac529b702d8891e563d7f9c3c2f5c6feca71fec730347fdd38f5f3a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate.json"
-hash = "c686caefdce79775196efe51f71fc095714c8074c27944edd2c90cefb79ebda7"
+hash = "96f22c6f9ff88c0c2b2dd33ab6bd71ca6825322556a73655ac1f60da35951dba"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_blood_moon.json"
-hash = "853cdd52a9d0ebc500acd618557da4160fb1932f1bb881c1e1402924f6645576"
+hash = "539dbe8e98fee029085346e9fed61bc3268b132965fbc53ee73344d4d2682f0c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_nether.json"
-hash = "10099d955d1b5bf5b67dd650157fb57b7bff939c61f898e7dfa5445fff82f027"
+hash = "1e4e54c7e0360819646bcbf51c62be6bf9e771912eb261181051f2df98f7f2c8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_void.json"
-hash = "998800d5aa312cbbe77329e247e7c12f6b1071fbf666d1c35ec5afb14e6d2095"
+hash = "5a909816b9767b8fb5a67ea149e348ab7030b3c3e8b85d1e2e43a845339888d8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_white.json"
-hash = "0e16706c63702665b6beada3833217f23a8ac295fc7ad8815e8abf9bf9f98e4b"
+hash = "c4b273ef914629dd09e15095e30a83ac49856f79c376c67a095237364e7ca232"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_blood_moon.json"
-hash = "6096d046756f61fc8a31276f2b6f9bd051d688bc3e2859f6b6cd486cdab1e793"
+hash = "1aaeed275d6f8d45bfc0454c2b6623a268a5101272fc1110abedfdf1127523fe"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_nether.json"
-hash = "6bb075c40161732dbf72c79a09acdfe4f2615c0197c9214d2c8a17e7705391bf"
+hash = "34e45e5f518e5be6cd723b1d218f64f8a26caeb089f5197ca17addb62d15bfb2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_void.json"
-hash = "4bc19e06cb10a56d8ea8ccc1b634de7776545f62a49bf198fe944cb9de96600e"
+hash = "773ee8bce769277c58db143e052c1563cfc5f7686d6d1f36975e5417c8f623c6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_white.json"
-hash = "04eb19535aca27303bdb8893a43a381fa46baf3fbf84a1833f4eb35d0ca49354"
+hash = "2b7bf22505ede0319c0bda3911a32ef53872c76b941e9dafc5338d32553b4991"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ornate_chest_placeholder.json"
@@ -10662,6 +10654,10 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
+hash = "5d03855fa49b8a7d9c1856555426e54e94ad5340e3c3fa06256890d1b8747e87"
+
+[[files]]
+file = "config/the_vault/recipes/gear_recipes.json.bak"
 hash = "e5af8bf4938633714bc4bb41e96f6f8e42f8f130caf0ce6f6b299fbef8fb0014"
 
 [[files]]
@@ -10722,7 +10718,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "dae4ff3fd98c535b6838329b1ab5596b38b839a0405b1576e4aca95dba496039"
+hash = "6c21803150299d3d6650af336501ba4b73f61edd6c49410d141395bb009bae43"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -10874,6 +10870,10 @@ hash = "9b3845d6942cf5ad21f2c79809f8024b16fc9916a2d7ea552193dd1117d9727d"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
+hash = "0527bbdc3ea0ad8354ca11e47b9e2ec50a6f611434bc9128867cbe31c29a681e"
+
+[[files]]
+file = "config/the_vault/vault_diffuser.json.bak"
 hash = "c3f8d173bf7e98402cfb4f7f410a0497cace9912bb5db673268ecf18748f1f09"
 
 [[files]]
@@ -11021,32 +11021,12 @@ file = "config/vaultintegrations/altar_conduit.json"
 hash = "60343881ba35f1d7754eb51487f27295bca18f86d0a2a5dbbfb2b7a931d88f13"
 
 [[files]]
-file = "config/vhsmp/gladiator_arena.json"
-hash = "9f3d73d34c7d1a20283556ffc62459a3e7895e7127641328f7811a4243622062"
-
-[[files]]
-file = "config/vhsmp/gladiator_classes.json"
-hash = "7fbad298ad4f17239de7268f817c00e49a57d05d501c6ddd5186cc347aa53e62"
-
-[[files]]
-file = "config/vhsmp/gladiator_shop.json"
-hash = "1e342a7439abaf526b0b120d9ebd878c9b2e94a23e96b15026643ecfab39ffac"
-
-[[files]]
-file = "config/vhsmp/subscriber_arena.json"
-hash = "83ed2b715cf3e5015852287e6232b605a0ad1df6da66f0adb5a780eefc9cb005"
-
-[[files]]
 file = "config/waddles-common.toml"
 hash = "0a39b527a0694b41b5b46f8e6856c4054bed35e0f3c60224e1a45166e17dd88e"
 
 [[files]]
 file = "config/waystones-common.toml"
 hash = "aeff20419560c1b3631491ca159d2b3fa6588d3e5c171cb3353c5ea26789fd1b"
-
-[[files]]
-file = "config/worldedit/worldedit.properties"
-hash = "017e64b594714aa6dae3cc9eae3565326acf2d3162998c8aa1db1ac9d64c54a0"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -11216,7 +11196,7 @@ metafile = true
 
 [[files]]
 file = "mods/cagerium.pw.toml"
-hash = "e9fd1a21b441713cb061f37a0d74d7849f00cb020d24ad09dff2a5be3670b9f0"
+hash = "534d6c8afa54b777ae2d15f40d719b048f86d9ba6674a981bddd2421e052c313"
 metafile = true
 
 [[files]]
@@ -12326,7 +12306,7 @@ hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "2441ac1f18eb360b3596d94d40475cd0b39a1323dfeffa1f7414789eb35a8458"
+hash = "ecd2c2280999ffc872743c0d29952c9aefa6ce29544bf651c76464b74dfc6050"
 
 [[files]]
 file = "scripts/Backpacks.zs"
