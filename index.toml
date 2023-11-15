@@ -11360,6 +11360,11 @@ hash = "b9a21042c55e75256e733b18b41223111e27b5af4bdb45f2570f1b7be3c9b2d3"
 metafile = true
 
 [[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "cf91d65cef2c555634892f8413667ed8ce4abd0afdc8bd1f21a08bcbbed41639"
+metafile = true
+
+[[files]]
 file = "mods/easy-piglins.pw.toml"
 hash = "d5cac0f17db3b8d29d1689fa262f1942587f2073e645dc8dea257a25d79f80a7"
 metafile = true
@@ -11931,7 +11936,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-official-mod.pw.toml"
-hash = "c97a3d3941467600b0f18153739f2bd813eaea154003b56fbb1d2cb2fb8d7522"
+hash = "29d98c4f7ce9a50e36aeaae47651999c9b557dcac1b965516b59ed6de0b45aad"
 metafile = true
 
 [[files]]
