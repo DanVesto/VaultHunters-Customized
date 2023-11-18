@@ -11620,6 +11620,11 @@ hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "5973a7ffae78b9b001127b415c496cba9e34b6316daf0d264a2f14e65aaeeb9d"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "9ba7ce600676fa147a460fa3ec04712943ed81c72a24774f2c2b721c113986a3"
 metafile = true
@@ -11892,11 +11897,6 @@ metafile = true
 [[files]]
 file = "mods/the-weirding-gadget.pw.toml"
 hash = "f21ded9e4c1a34d79f7b11e37310b50cf236adb9c416fb83e0b8f8d34e8e0629"
-metafile = true
-
-[[files]]
-file = "mods/the_vault-tweaks.pw.toml"
-hash = "1be41a6b85fe67427f872a16a0417b2a0b9062009dfb9fc6f24207c9a84a8d1c"
 metafile = true
 
 [[files]]
