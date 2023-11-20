@@ -402,11 +402,11 @@ hash = "c69177c87ea6f85cd9d3b4a9372cbcd6b389dae4ea7377e370a23626dddc1c8d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fc4354b1315c073fd1ac62114bb31d6db094bfc0a234bdf0c4c9c81fda3b64e5"
+hash = "55f232c85c3fa081e350ff499d2eb7ed13800150ecfe2e0223a41357f1ed47ed"
 
 [[files]]
 file = "config/bcc-common.toml.bak"
-hash = "b223b89d9deb5d54cb4c4e1d831ee33d9da1eebc0c502b1e693d42194f8b5cc4"
+hash = "fc4354b1315c073fd1ac62114bb31d6db094bfc0a234bdf0c4c9c81fda3b64e5"
 
 [[files]]
 file = "config/blockcarpentry-common.toml"
@@ -499,10 +499,6 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 [[files]]
 file = "config/cyclopscore-common.toml"
 hash = "5d45dd174ee101a550fe44b2b1940bdb7edbd9a70f112f0af0d3a7ff494be7bf"
-
-[[files]]
-file = "config/daily_rewards-common.toml"
-hash = "acfca81793daf5149ace10c3e3bd36e4a2be1a45c37756387af2108f9540440d"
 
 [[files]]
 file = "config/decorative_blocks-common.toml"
@@ -1122,11 +1118,11 @@ hash = "045c612ab3f1afcb8fa24ccce24a44627da6afe25116913e85b6f787ad647734"
 
 [[files]]
 file = "config/the_vault/elixir.json"
-hash = "317ade5513f4e070c27dcdc47d67947f1bda1f60462bf982943a1a23f8b3d60a"
+hash = "f518c6f0221b810f2658f8f3408c253c27ef2f734eea9c21b6d28996ec6b40af"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
-hash = "68fec1addb7b4171208b0a7a1c32d6093d0c619ce337d44c10a03c4f3db978f1"
+hash = "e99a8ac7d1694831416866188b73d8f9c6d426414b54365033746a34e4fc59cd"
 
 [[files]]
 file = "config/the_vault/etching.json"
@@ -2154,7 +2150,7 @@ hash = "43bd8bb8ff6bf02da7072927aacc5cb0823c946abd3a42702a34590759aaa1cf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/altar_nbt.json"
-hash = "2ba12e5969c91efd60d4b31c2c3c797435e197b5fc3fa089ec154ed51ca73475"
+hash = "ea38c99e563f8862dcc541347c7bf9d5daf2d3ca82c1bac8bf002238c8cd02bb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/altars/rare_ores.json"
@@ -10914,7 +10910,7 @@ hash = "ddcda70f059fc723d01fbc9503dd4b282f3528480783abb592ac68512d6b3f6c"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "37a770de045235d0be9d4c6e2d8e096674cd671eb9550045d7f57a21bb44e93d"
+hash = "8e69b939251ed3639f00d96a268e2296abb306da10b58e910a944ee3a1c6728a"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -10954,7 +10950,7 @@ hash = "5d17dee8ae4769e3bbcfa2c6967447200a45bdcc5a91bd1f7737eb9f73f913c5"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
-hash = "5f9db45c4fb1cb455c228d8f6f52e9fa87ec14d32f5febb4f6b2f638eda26f39"
+hash = "56ac7f47479d4aa390387ad46860250a2392a09b8c0345e098ebe69c02d8d8eb"
 
 [[files]]
 file = "config/the_vault/vault_stew.json"
@@ -11262,11 +11258,6 @@ metafile = true
 [[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "504e0b21fb643f5a6e1d2db18b3975993673b7c89b062be49de37dbedc3684da"
-metafile = true
-
-[[files]]
-file = "mods/contenttweaker.pw.toml"
-hash = "435c6f0e90801714828024d7b03680975e6600c8fd48c6e2da0917806a6a667b"
 metafile = true
 
 [[files]]
@@ -11900,6 +11891,11 @@ hash = "f21ded9e4c1a34d79f7b11e37310b50cf236adb9c416fb83e0b8f8d34e8e0629"
 metafile = true
 
 [[files]]
+file = "mods/the_vault-tweaks.pw.toml"
+hash = "672a25d9dc96c3387f940e248ccf2cdb17189c8d9b93e0c0fd1410afa62e776f"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "29d9560581661a430c832ec43f86ea0d276623677f038ed94c190d1ca90791eb"
 metafile = true
@@ -11936,7 +11932,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-hunters-official-mod.pw.toml"
-hash = "29d98c4f7ce9a50e36aeaae47651999c9b557dcac1b965516b59ed6de0b45aad"
+hash = "7967e98df5d332443e5a3f87cc0da32b42ced31dd829f342691455f2506eaa17"
 metafile = true
 
 [[files]]
@@ -11946,7 +11942,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault_hunters_jewel_sorting.pw.toml"
-hash = "938a44cd449ad5cfea2bf447965d5096a1688b9da985b855b1bd2c7546d945da"
+hash = "a992edeb6257eab88bf0ba5f3a5b2e54bb674fbbcc8c8958459a3c094089855c"
 metafile = true
 
 [[files]]
@@ -12483,10 +12479,6 @@ file = "scripts/alexsmobs.zs"
 hash = "0ef4735dc21b0ee1155ab77d8a2ca16d5179124efa8dc0e98cc700f8ae4031fd"
 
 [[files]]
-file = "scripts/contenttweaker.zs"
-hash = "8cce24c3f2775a0430fb188504c3d5ba887cc70996e76440b235863544c4e537"
-
-[[files]]
 file = "scripts/iron_generators_furnaces.zs"
 hash = "4dfb72eb87c209ce374bc1920e0a37fcd4f06359a2ce9f454f167d4cf6f196a8"
 
@@ -12513,7 +12505,3 @@ hash = "2d9330b07464e34f9a6d8d84be9d01c98425a6dc5bbb29b58e98f5325a8f59df"
 [[files]]
 file = "scripts/raw_smelting.zs"
 hash = "aeab1a68ec8e4b52bcb6c8a0e5524ff0620a8dc92245ce9d0aea1952fa0960eb"
-
-[[files]]
-file = "scripts/vaultcrystal_limiter.zs"
-hash = "97ab0ec781229897c25f336008aad3a240d282f1660b076a29578c376f5feb34"

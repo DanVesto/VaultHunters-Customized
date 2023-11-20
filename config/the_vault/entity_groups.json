@@ -151,7 +151,9 @@
       "the_vault:skeleton_pirate_t5",
       "minecraft:polar_bear",
       "alexsmobs:tusklin",
-      "minecraft:magma_cube"
+      "minecraft:magma_cube",
+      "the_vault:levishroom",
+      "the_vault:winter_wolf"
     ],
     "the_vault:tank": [
       "the_vault:shiver",
