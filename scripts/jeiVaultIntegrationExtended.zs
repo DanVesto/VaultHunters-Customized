@@ -11,6 +11,7 @@ import crafttweaker.api.text.Component;
 import mods.jei.component.JeiIngredient;
 import mods.jei.recipe.JeiRecipeGraphics;
 
+#onlyif side client
 
 //Utility functions
 function lootItem(item as string, minQuantity as int, maxQuantity as int, chance as float) as IItemStack {
@@ -923,3 +924,4 @@ crystal.addRecipe([], [
 // Add category
 JEI.addCategory(crystal);
 
+#endif

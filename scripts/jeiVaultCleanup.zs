@@ -2,6 +2,7 @@
 for Iskall85's Vaulthunters */
 
 import mods.jei.JEI;
+#onlyif side client
 
 JEI.hideIngredient(<item:the_vault:t0_miner_zombie_egg>);
 JEI.hideIngredient(<item:the_vault:t1_miner_zombie_egg>);
@@ -25,3 +26,4 @@ JEI.hideIngredient(<item:the_vault:vault_crate_scavenger>);
 JEI.hideIngredient(<item:the_vault:vault_crate_bounty>);
 JEI.hideIngredient(<item:the_vault:vault_crate_monolith>);
 JEI.hideIngredient(<item:the_vault:vault_crate_elixir>);
+#endif

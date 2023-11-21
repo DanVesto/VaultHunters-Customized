@@ -12479,19 +12479,19 @@ hash = "4dfb72eb87c209ce374bc1920e0a37fcd4f06359a2ce9f454f167d4cf6f196a8"
 
 [[files]]
 file = "scripts/jeiInformation.zs"
-hash = "04108b1efb14d9f53e10acb26dc056e02185635236bfcddea983faac74a01f19"
+hash = "cab0a7e12faa358c1c0d05639727587ad19d524533595058b7e790b88538b0c6"
 
 [[files]]
 file = "scripts/jeiIntegration.zs"
-hash = "546f9f3e62d71fc1223b9913ee4bb02a7dcf140477173f2b9e9e8d0e19b3da35"
+hash = "a0b954dccede181af24146c47a01ca03e7a1146d01469862f2a15f98e3109ae7"
 
 [[files]]
 file = "scripts/jeiVaultCleanup.zs"
-hash = "367680258f2db1ee9153ed4f1fc3fa2f929ae66de50216bd2d6382129ad60c85"
+hash = "94cd0892b82070f278c6ddb7ffc1e0db2cc70614b5a29d4894bca0e846bacbf6"
 
 [[files]]
 file = "scripts/jeiVaultIntegrationExtended.zs"
-hash = "c938e78be8fa4b630c9b9d75c64c5eecb93636bee2a55520e221c22469734d13"
+hash = "9ffc5bad6b661ab70c5f08bb1258915b4d55ff67b1f92baffb35b33056137463"
 
 [[files]]
 file = "scripts/mushroomEvents.zs"
