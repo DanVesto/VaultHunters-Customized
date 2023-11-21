@@ -1,3 +1,4 @@
+#onlyif side client
 import mods.jei.category.Custom;
 import mods.jei.JEI;
 import mods.jei.category.SimpleJeiCategory;
@@ -6,7 +7,6 @@ import crafttweaker.api.text.TextComponent;
 import mods.jei.component.JeiDrawable;
 import crafttweaker.api.resource.ResourceLocation;
 import crafttweaker.api.item.IItemStack;
-#onlyif side client
 
 var armourCat = JeiCategory.create<Custom>("artisan_station", new TextComponent("Vault Forge"), <item:the_vault:vault_forge>, [<item:the_vault:vault_forge>]) as Custom;
 armourCat.background = JeiDrawable.blank(180, 30) as JeiDrawable;

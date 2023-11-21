@@ -1,8 +1,8 @@
 /* scripts made by alterNERDtive
 for Iskall85's Vaulthunters */
+#onlyif side client
 
 import mods.jei.JEI;
-#onlyif side client
 
 JEI.hideIngredient(<item:the_vault:t0_miner_zombie_egg>);
 JEI.hideIngredient(<item:the_vault:t1_miner_zombie_egg>);
