@@ -11326,11 +11326,6 @@ hash = "66d15d4ac60bde303c90118d5e8435c9194372ff4d05c7cb09a9fec048cfaf9c"
 metafile = true
 
 [[files]]
-file = "mods/daily-rewards.pw.toml"
-hash = "67b08bb817f98ec560c5c300f235677c81d2bcb3c0d6cc7aa9ae94f74feb2c9d"
-metafile = true
-
-[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "bef0dd3b94884402270adf07d78de49dc7ff22f04a29f58853ecc07781204c8f"
 metafile = true
