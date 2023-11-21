@@ -12307,7 +12307,7 @@ hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "ecd2c2280999ffc872743c0d29952c9aefa6ce29544bf651c76464b74dfc6050"
+hash = "92576fcca06ec881eb06204822c8fcd62274a7624aedbd628d208638686b8b8d"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -12371,7 +12371,7 @@ hash = "c80f97332aa38434ac6b93ec35851e4123b845c86af20ec97022f02716e59176"
 
 [[files]]
 file = "scripts/Flux.zs"
-hash = "174db8aa64b41ce51a80244d12f17866886489b7290fa1de233a3c81ec84ff65"
+hash = "352cb03a0240610d3bb0514ff66c043302e11b6d44b81397e76fe908472dcdb2"
 
 [[files]]
 file = "scripts/Macaw.zs"
@@ -12399,7 +12399,7 @@ hash = "f3359b2d976b5303a33efa062c01e863ec20de173347bab120e4d005184291c2"
 
 [[files]]
 file = "scripts/Powah.zs"
-hash = "652293c45c19ee67a7005d6d38a365ed906c7743ddba0e15afc80429c60dc6ed"
+hash = "a6eeaaed548487f989c43b857d27f6d4ac435e40d201a89ba95d1f3a753a88e9"
 
 [[files]]
 file = "scripts/Quark.zs"
@@ -12427,7 +12427,7 @@ hash = "265100066beb05b8985118fc47fe9ad23767163c29d5e1e1d197de8aa6a1b146"
 
 [[files]]
 file = "scripts/SophisticatedStorage.zs"
-hash = "c29962ed54cfbafef8415ea91d03bd142b243c958494069a1b1b386599a763b0"
+hash = "eb02e03e157c3c4637342cfd624e8503280a8b653b6852cdaa0f6121f07958a1"
 
 [[files]]
 file = "scripts/Tags.zs"

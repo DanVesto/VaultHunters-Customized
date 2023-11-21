@@ -18,7 +18,6 @@ import mods.create.MechanicalCrafterManager;
 import crafttweaker.api.recipe.Brewing;
 import crafttweaker.api.tag.MCTag;
 import mods.botania.Brew;
-import mods.jei.JEI;
 
 loot.modifiers.register(
     "no_loot", 
@@ -972,6 +971,11 @@ craftingTable.remove(<item:powah:solar_panel_basic>);
 
 // craftingTable.remove();   
 
+craftingTable.remove(<item:ae2wtlib:infinity_booster_card>);
+craftingTable.remove(<item:ae2wtlib:magnet_card>);
+#onlyif side client
+import mods.jei.JEI;
+
 // removing items from JEI
 
 //JEI.hideIngredient
@@ -1250,9 +1254,6 @@ var gems = {
   "iskallic_gemstone": "iskallic"
 };
 
-for gemId, gemName in gems {
- JEI.hideIngredient(<item:the_vault:${gemName}_gemstone>);
-  }
 var jewels = {
   "echoing_jewel": "echoing",
   "petzan_jewel": "petzan",
@@ -1268,6 +1269,9 @@ var jewels = {
   "upal_jewel": "upal",
 };
 
+for gemId, gemName in gems {
+ JEI.hideIngredient(<item:the_vault:${gemName}_gemstone>);
+  }
 for jewelId, jewelName in jewels {
  JEI.hideIngredient(<item:the_vault:${jewelName}_jewel>);
   }
@@ -1504,8 +1508,6 @@ JEI.hideMod("rottencreatures");
 JEI.hideIngredient(<item:ispawner:spawn_egg>);
 // AE2
 JEI.hideIngredient(<item:ae2:vibration_chamber>);
-
-craftingTable.remove(<item:ae2wtlib:infinity_booster_card>);
-craftingTable.remove(<item:ae2wtlib:magnet_card>);
 JEI.hideIngredient(<item:ae2wtlib:infinity_booster_card>);
 JEI.hideIngredient(<item:ae2wtlib:magnet_card>);
+#endif

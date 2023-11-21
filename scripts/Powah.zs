@@ -1,5 +1,6 @@
+#onlyif side client
 import mods.jei.JEI;
-
+#endif
 /* scripts made by Douwsky
 for Iskall85's Vaulthunters */
 
@@ -19,12 +20,15 @@ for type in cellTypes {
 	craftingTable.remove(<item:powah:energy_cell_${type}>);
 	craftingTable.remove(<item:powah:reactor_${type}>);
 	craftingTable.remove(<item:powah:player_transmitter_${type}>);
+	#onlyif side client
 	JEI.hideIngredient(<item:powah:player_transmitter_${type}>);
+	#endif
 }
 
 craftingTable.remove(<item:powah:player_transmitter_starter>);
+#onlyif side client
 JEI.hideIngredient(<item:powah:player_transmitter_starter>);
-
+#endif
 <recipetype:powah:energizing>.addJsonRecipe("crystal_nitro", { //
   "ingredients": [
 	{"tag": "forge:nether_stars"},
